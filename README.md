@@ -1,16 +1,42 @@
-## Hi there 👋
+# Ahmed Galal
 
-<!--
-**Ahmed-Galal85/Ahmed-Galal85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Team Leader · Senior Software Developer · System Architect  
+📍 Egypt
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who I Am
+Software engineer with 15+ years of experience building, fixing,
+and scaling real-world systems.
+
+I specialize in:
+- Cleaning broken architectures
+- Refactoring legacy systems
+- Designing scalable enterprise platforms
+- Leading engineering teams with architectural vision
+
+---
+
+## Tech Stack
+- .NET Core / MVC / EF
+- Angular, Flutter
+- PostgreSQL, SQL Server
+- Docker, Kubernetes
+- System Design & Clean Architecture
+- Multi-Tenant Systems
+- API Gateway Patterns
+
+---
+
+## What I Value
+- Clarity over cleverness
+- Architecture over patching
+- Systems that scale in reality, not slides
+
+---
+
+## GitHub Pages
+👉 https://Ahmed-Galal85.github.io
+
+## LinkedIn Pages
+👉 https://www.linkedin.com/in/ahmed-galal85/
